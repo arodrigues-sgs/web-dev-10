@@ -1,0 +1,22 @@
+#eventContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0;
+    max-width: 250px
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    padding: 10px;
+}
+
+#log {
+    margin-top: 20px;
+    border-top: 2px solid #ccc;
+    padding: 10px;
+}
